@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+
+ol > li {
+    list-style-type:lower-alpha;
+}
+
+ul > li {
+    list-style-type: circle;
+}

@@ -1,0 +1,18 @@
+
+
+h1{
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(223, 23, 23, 0.5);
+}
+
+#colored{
+    color: gold;
+    background-color: black;
+    font-size: 24px;
+    text-align: center;
+}
+
+.container{
+    color: rgba(88, 9, 9, 0.308);
+}
+
