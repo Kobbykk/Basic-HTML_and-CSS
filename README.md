@@ -49,7 +49,7 @@ This project demonstrates the use of fundamental HTML and CSS techniques to buil
 
 **Edwin Addai**  
 Software Developer | HTML/CSS Enthusiast  
-Edwinaddai.ea@gmail.com | [Your LinkedIn](https://www.linkedin.com/in/edwin-addai7349/)
+Edwinaddai.ea@gmail.com | [Edwin's LinkedIn](https://www.linkedin.com/in/edwin-addai7349/)
 
 
 
